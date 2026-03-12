@@ -7,7 +7,7 @@ AI-driven garment sewing pattern generation research project. Based on a literat
 The project focuses on AI-driven automatic generation of garment sewing patterns, covering six major paradigms:
 
 | Paradigm | Representative Work | Venue |
-|----------|-------------------|-------|
+| -------- | ------------------- | ----- |
 | Program Synthesis | Design2GarmentCode, ChatGarment | CVPR 2025 |
 | Autoregressive Sequence | DressCode, SewingGPT | SIGGRAPH 2024 |
 | Diffusion Models | GarmentDiffusion | IJCAI 2025 |
@@ -17,7 +17,7 @@ The project focuses on AI-driven automatic generation of garment sewing patterns
 
 ## Repository Structure
 
-```
+```bash
 garment/
 ├── README.md
 ├── CLAUDE.md
@@ -49,7 +49,7 @@ garment/
 ## Top Research Ideas
 
 | Rank | Idea | Score | Key Gaps Addressed |
-|------|------|-------|--------------------|
+| ---- | ---- | ----- | ------------------ |
 | 1 | GarmentBench Unified Evaluation Benchmark | 42 | 9, 27, 5 |
 | 2 | Real-World Pattern Dataset | 41 | 5, 27 |
 | 3 | AI Neural Pattern Grading | 38 | 16, 15 |
